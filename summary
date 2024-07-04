@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Book</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Recipe Book</h1>
+    </header>
+    <main>
+        <section class="categories">
+            <h2>Categories</h2>
+            <ul>
+                <li><a href="vegetarian.html">Vegetarian</a></li>
+                <li><a href="meat.html">Meat</a></li>
+                <li><a href="desserts.html">Desserts</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Recipe Book</p>
+    </footer>
+</body>
+</html>
